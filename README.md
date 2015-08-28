@@ -8,3 +8,9 @@ http://programmers.stackexchange.com/questions/139134/do-all-functional-language
 
 Here's an idea to allow efficient functional languages at the hardware level:
 http://stackoverflow.com/questions/791437/why-dont-purely-functional-languages-use-reference-counting
+
+* This SO question has some good links to get started:
+* http://stackoverflow.com/questions/12924319/writing-an-os-with-uefi
+
+EXPLICIT GOALS:
+All the code required to boot a custom OS, using UEFI.
